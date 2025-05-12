@@ -1,12 +1,16 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Home"
+    url: "/"
+  - title: "Verfahren"
+    url: "/verfahren/"
+  - title: "Kunden"
+    url: "/kunden/"
+  - title: "Partner"
+    url: "/partner/"
+  - title: "Kontakt"
+    url: "/kontakt/"
+  - title: "Login"
+    url: "/login/"
+  - title: "FTP-Zugang"
+    url: "/ftp-zugang/"
