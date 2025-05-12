@@ -3,7 +3,7 @@ layout: single
 title: "Unser Angebot"
 permalink: /angebot/
 header:
-  overlay_image: /assets/images/recycling.jpg
+  overlay_image: /assets/recycling.jpg
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: "Recycling ist unser Angebot"
 excerpt: "Recycling für eine saubere Erde."
