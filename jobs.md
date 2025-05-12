@@ -2,6 +2,11 @@
 layout: single
 title: "Jobs"
 permalink: /jobs/
+header:
+  overlay_image: /assets/pellets-modified.jpg
+  overlay_filter: "0.3"  # dunkelt das Bild leicht ab
+  caption: ""
+excerpt: ""
 ---
 
 Die RecPlast GmbH ist ein **imaginäres Unternehmen** welches nicht wirklich existiert. Wir suchen ständig neue Mitarbeiter, die unser Team verstärken.
