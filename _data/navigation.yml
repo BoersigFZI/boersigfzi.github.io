@@ -12,5 +12,5 @@ main:
     url: "/kontakt/"
   - title: "Login"
     url: "/login/"
-  - title: "FTP-Zugang"
-    url: "/ftp-zugang/"
+  - title: "Veranstaltungen"
+    url: "/veranstaltungen/"
