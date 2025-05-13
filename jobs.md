@@ -71,4 +71,5 @@ Aktuell suchen wir:
 * **Mitarbeiter:in für Warenein- und -ausgangsprüfung**
   
   Sicherstellung der Qualität und Nachverfolgbarkeit von Recyclingmaterialien.
+  
   [Weitere Details](stellenangebote/Job12.pdf)
