@@ -1,0 +1,17 @@
+Congratulations on finding this file!
+This file has been placed here on purpose.
+- Content -
+Invention for Friday after work BBQ.
+Please confirm your data and preferences (m = meat-eater, vt = vegetarian, V = vegan)
+Hans Müller - hans.mueller@recplast-gmbh.de - m
+Lena Schmidt - lena.schmidt@recplast-gmbh.de - vt
+Klaus Weber - klaus.weber@recplast-gmbh.de - m
+Anna Fischer - anna.fischer@recplast-gmbh.de - V
+Jürgen Becker - juergen.becker@recplast-gmbh.de - M
+Sarah Klein - sarah.klein@recplast-gmbh.de - vt
+Michael Braun - michael.braun@recplast-gmbh.de - V
+Emily Schneider - emily.schneider@recplast-gmbh.de - m
+Lisa Nguyen - lisa.nguyen@recplast-gmbh.de - m
+Thomas Meyer - thomas.meyer@recplast-gmbh.de - vt
+- End of content -
+The flag is #flag_BBQparty
