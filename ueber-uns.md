@@ -3,7 +3,7 @@ layout: single
 title: "Wir"
 permalink: /ueber-uns/
 header:
-  overlay_image: /assets/bottles-modified.jpg
+  overlay_image: /assets/ueber_uns.jpg
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: ""
 excerpt: "Über uns: Unsere Mitarbeiter machen den Unterschied"
@@ -26,9 +26,9 @@ Wir leben nach bestimmten Werten, die unser Handeln und unsere Entscheidungen le
 Unsere Mitarbeiter im Mittelpunkt
 Wir möchten einige unserer Mitarbeiter vorstellen, die unser Unternehmen prägen: 
 
-* [Name], unser Geschäftsführer, hat über 10 Jahre Erfahrung in der Recycling-Industrie und ist ein ausgewiesener Experte auf seinem Gebiet.
-* [Name], unsere Verkaufsleiterin, hat eine Leidenschaft für Nachhaltigkeit und arbeitet eng mit unseren Kunden zusammen, um ihre Bedürfnisse zu verstehen und zu erfüllen.
-* [Name], unser Produktionsleiter, sorgt dafür, dass unsere Produkte von höchster Qualität sind und unsere Kunden zufriedenstellen.
+* Matthias Eichenbrunn, unser Geschäftsführer, hat über 10 Jahre Erfahrung in der Recycling-Industrie und ist ein ausgewiesener Experte auf seinem Gebiet.
+* Andreha U. Nütz, unsere Verkaufsleiterin, hat eine Leidenschaft für Nachhaltigkeit und arbeitet eng mit unseren Kunden zusammen, um ihre Bedürfnisse zu verstehen und zu erfüllen.
+* Bernd Trüger, unser Produktionsleiter, sorgt dafür, dass unsere Produkte von höchster Qualität sind und unsere Kunden zufriedenstellen.
      
 
 # Karriere bei Recplast

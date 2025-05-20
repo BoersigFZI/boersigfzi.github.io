@@ -1,17 +1,30 @@
 ---
 layout: single
-title: "Jobs"
-permalink: /jobs/
+title: "Karriere"
+permalink: /karriere/
 header:
   overlay_image: /assets/pellets-modified.jpg
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: ""
-excerpt: ""
+excerpt: "Karriere bei Recplast: Wir suchen nach engagierten Mitarbeitern"
 ---
 
-Die RecPlast GmbH ist ein **imaginäres Unternehmen** welches nicht wirklich existiert. Wir suchen ständig neue Mitarbeiter, die unser Team verstärken.
+Bei Recplast arbeiten wir daran, eine nachhaltige Zukunft zu gestalten. Wenn Sie sich für Umweltschutz und Nachhaltigkeit interessieren und ein Teil unseres Teams werden möchten, dann sind Sie bei uns richtig! Wir bieten eine Vielzahl von Jobs an, von der Produktion bis hin zur Verwaltung. 
 
-Aktuell suchen wir:
+# Warum Recplast?
+Wir bieten: 
+
+* Eine sinnvolle Arbeit: Bei Recplast haben Sie die Möglichkeit, einen Beitrag zum Umweltschutz zu leisten und gleichzeitig Ihre Fähigkeiten und Talente einzubringen.
+* Ein engagiertes Team: Unsere Mitarbeiter sind alle von der Mission unseres Unternehmens überzeugt und arbeiten gemeinsam daran, unsere Ziele zu erreichen.
+* Eine positive Arbeitsatmosphäre: Wir bieten eine offene und kommunikative Arbeitsumgebung, in der Sie sich wohlfühlen können.
+
+# Wie bewerben Sie sich?
+Wenn Sie sich für eine der Stellen interessieren, können Sie uns Ihre Bewerbung per Fax an uns senden. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf, ein Anschreiben und relevante Zeugnisse bei. 
+
+Wir freuen uns darauf, von Ihnen zu hören!      
+
+# Aktuelle Stellenausschreibungen
+Hier finden Sie unsere aktuellen Stellenausschreibungen: 
 
 * **Prozessingenieur:in Verfahrenstechnik**
 

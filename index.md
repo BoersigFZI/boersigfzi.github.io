@@ -3,8 +3,10 @@ layout: splash
 title: "Willkommen auf der RecPlast GmbH Demonstrations-Site"
 author_profile: false
 header:
-  overlay_image: /assets/images/Logo.jpg
-  overlay_filter: rgba(0, 0, 0, 0.5)
+header:
+  overlay_image: /assets/clean_world.png
+  overlay_filter: "0.2"  # dunkelt das Bild leicht ab
+  caption: ""
   actions:
     - label: "Mehr erfahren"
       url: "/ueber-uns/"
