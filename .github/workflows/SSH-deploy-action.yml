@@ -32,5 +32,5 @@ jobs:
         key: ${{ secrets.KEY }}
         #port: ${{ secrets.PORT }}
         source: "./_site/*" # Adjust if required
-        target: "/public_html" # Set to your deployment directory (for example /public_html)
+        target: "/var/www/html/recplast-gmbh.de" # Set to your deployment directory (for example /public_html)
         strip_components: 1 # This ensures that a subdirectory is not created
