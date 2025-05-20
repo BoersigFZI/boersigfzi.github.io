@@ -3,8 +3,8 @@ layout: single
 title: "Verfahren"
 permalink: /verfahren/
 header:
-  overlay_image: /assets/recplast_header.jpg
-  overlay_filter: "0.3"  # dunkelt das Bild leicht ab
+  overlay_image: /assets/verfahren.png
+  overlay_filter: "0.2"  # dunkelt das Bild leicht ab
   caption: ""
 excerpt: "Unser Recyclingverfahren: Wie wir Plastik in neue Ressourcen verwandeln"
 ---

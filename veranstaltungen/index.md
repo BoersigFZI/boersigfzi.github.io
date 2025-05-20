@@ -4,7 +4,7 @@ title: "Veranstaltungen"
 permalink: /veranstaltungen/
 ---
 
-Wähle ein Jahr:
+Bitte wählen Sie ein Jahr:
 
 * [2024](2024)
 * [2023](2023)
