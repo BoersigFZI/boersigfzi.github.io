@@ -9,32 +9,14 @@ header:
 excerpt: ""
 ---
 
-**Angaben gemäß § 5 TMG**  
-RecPlast GmbH  
-Musterstraße 1  
-12345 Musterstadt  
-Deutschland
+> [!WARNUNG]
+> Die RecPlast GmbH ist ein fiktives Unternehmen ohne rechtliche Existenz. Alle Angaben sind frei erfunden.
+> Diese Webseite wird für den Einsatz in einer Schulung vom BSI betrieben. Das Impressum ist die einzige Seite, die ernsthafte Informationen enthält.
 
-**Vertreten durch:**  
-Max Mustermann
 
-**Kontakt:**  
-Telefon: +49 (0)123 456789  
-E-Mail: info@recplast-gmbh.de
+**Zuständig für den Inhalt der Webseite ist**
+(hier müssen die korrekten Informationen rein)
 
-**Registereintrag:**  
-Eintragung im Handelsregister.  
-Registergericht: Amtsgericht Musterstadt  
-Registernummer: HRB 123456
-
-**Umsatzsteuer-ID:**  
-Umsatzsteuer-Identifikationsnummer gemäß §27 a Umsatzsteuergesetz: DE123456789
-
-**Haftungsausschluss:**  
-Dieses Impressum dient lediglich Demonstrationszwecken. Die RecPlast GmbH ist ein fiktives Unternehmen ohne rechtliche Existenz. Alle Angaben sind frei erfunden.
-
----
-
-**Bildnachweise:**  
-Die verwendeten Bilder stammen aus frei zugänglichen Quellen oder wurden für Demonstrationszwecke erstellt.
+**Datenschutz**
+Die Webseite und der zugrundeliegende Webserver speichern keine Informationen.
 
