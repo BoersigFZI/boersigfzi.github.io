@@ -3,7 +3,7 @@ layout: single
 title: "Karriere"
 permalink: /karriere/
 header:
-  overlay_image: /assets/pellets-modified.jpg
+  overlay_image: /assets/karriere.png
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: ""
 excerpt: "Karriere bei Recplast: Wir suchen nach engagierten Mitarbeitern"
@@ -17,6 +17,10 @@ Wir bieten:
 * Eine sinnvolle Arbeit: Bei Recplast haben Sie die Möglichkeit, einen Beitrag zum Umweltschutz zu leisten und gleichzeitig Ihre Fähigkeiten und Talente einzubringen.
 * Ein engagiertes Team: Unsere Mitarbeiter sind alle von der Mission unseres Unternehmens überzeugt und arbeiten gemeinsam daran, unsere Ziele zu erreichen.
 * Eine positive Arbeitsatmosphäre: Wir bieten eine offene und kommunikative Arbeitsumgebung, in der Sie sich wohlfühlen können.
+* Hochmoderne Büros mit aktueller Austattung:
+
+[![Ein Blick ins Büro, ein genauer Blick lohnt sich](/assets/buero_small.png)](/assets/buero.png)
+
 
 # Wie bewerben Sie sich?
 Wenn Sie sich für eine der Stellen interessieren, können Sie uns Ihre Bewerbung per Fax an uns senden. Bitte fügen Sie Ihrer Bewerbung Ihren Lebenslauf, ein Anschreiben und relevante Zeugnisse bei. 

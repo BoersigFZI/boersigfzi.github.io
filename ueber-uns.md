@@ -3,7 +3,7 @@ layout: single
 title: "Wir"
 permalink: /ueber-uns/
 header:
-  overlay_image: /assets/ueber_uns.jpg
+  overlay_image: /assets/ueber_uns.png
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: ""
 excerpt: "Über uns: Unsere Mitarbeiter machen den Unterschied"

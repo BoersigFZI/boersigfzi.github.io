@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Willkommen auf der RecPlast GmbH Demonstrations-Site"
+title: "Willkommen auf der Webseite der RecPlast GmbH"
 author_profile: false
 header:
 header:
@@ -10,7 +10,7 @@ header:
   actions:
     - label: "Mehr erfahren"
       url: "/ueber-uns/"
-excerpt: "Willkommen bei Recplast: Nachhaltige Lösungen für eine bessere Zukunft"
+excerpt: "Nachhaltige Lösungen für eine bessere Zukunft"
 ---
 
 Die Recplast GmbH ist ein innovatives Unternehmen, das sich für den Schutz der Umwelt und die Förderung von Nachhaltigkeit einsetzt. Wir entwickeln und produzieren hochwertige Recycling-Produkte, die aus recycelten Plastikabfällen hergestellt werden. Unsere Mission ist es, einen Beitrag zum Umweltschutz zu leisten und gleichzeitig unseren Kunden hochwertige Produkte anzubieten.
