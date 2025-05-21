@@ -18,7 +18,6 @@ Bei der Recplast GmbH setzen wir uns dafür ein, dass Plastikabfälle nicht län
 * Extrusion: Die zerkleinerten Plastikteile werden dann geschmolzen und zu neuen Granulaten verarbeitet, die als Rohstoff für neue Produkte dienen können.
 * Qualitätskontrolle: Zum Schluss werden unsere Produkte einer strengen Qualitätskontrolle unterzogen, um sicherzustellen, dass sie den höchsten Anforderungen entsprechen.
      
-
 ## Vorteile unseres Verfahrens
 Unser Recyclingverfahren bietet mehrere Vorteile: 
 
@@ -26,6 +25,4 @@ Unser Recyclingverfahren bietet mehrere Vorteile:
 * Ressourcenschonung: Wir sparen wertvolle Ressourcen wie Öl und Energie, indem wir Plastikabfälle recyceln, anstatt neue Rohstoffe zu fördern.
 * Kosteneffizienz: Unser Verfahren ist kostengünstiger als die Herstellung von neuen Plastikprodukten aus fossilen Ressourcen.
      
-
-# Fazit
 Die Recplast GmbH ist ein innovatives Unternehmen, das sich für eine nachhaltige Zukunft einsetzt. Durch unser effizientes Recyclingverfahren können wir Plastikabfälle in neue, hochwertige Rohstoffe umwandeln und so einen wichtigen Beitrag zum Umweltschutz leisten. Wenn Sie mehr über unsere Produkte oder unser Verfahren erfahren möchten, kontaktieren Sie uns gerne! 

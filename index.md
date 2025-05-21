@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: "Willkommen auf der Webseite der RecPlast GmbH"
 author_profile: false
 header:
