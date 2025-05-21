@@ -6,7 +6,7 @@ header:
   overlay_image: /assets/ueber_uns.png
   overlay_filter: "0.3"  # dunkelt das Bild leicht ab
   caption: ""
-excerpt: "Über uns: Unsere Mitarbeiter machen den Unterschied"
+excerpt: "Unsere Mitarbeiter machen den Unterschied"
 ---
 
 Die Recplast GmbH ist ein Unternehmen, das sich für eine nachhaltige Zukunft einsetzt. Aber hinter jedem erfolgreichen Unternehmen stehen engagierte und motivierte Mitarbeiter. Wir sind stolz auf unser Team, das täglich daran arbeitet, unsere Ziele zu erreichen und unsere Kunden zufriedenzustellen. 

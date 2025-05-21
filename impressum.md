@@ -3,7 +3,6 @@ layout: single
 title: "Impressum"
 permalink: /impressum/
 header:
-  overlay_image: /assets/recplast_header.jpg
   overlay_filter: "0.3"
   caption: ""
 excerpt: ""
