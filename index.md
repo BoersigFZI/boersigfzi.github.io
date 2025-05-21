@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Willkommen auf der Webseite der RecPlast GmbH"
+title: "RecPlast - Recycling für eine saubere Erde"
 author_profile: false
 header:
 header:
