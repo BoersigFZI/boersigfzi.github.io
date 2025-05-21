@@ -6,8 +6,6 @@ main:
     url: "/verfahren/"
   - title: "Wir"
     url: "/ueber-uns/"
-  - title: "Unser Angebot"
-    url: "/angebot/"
   - title: "Karriere"
     url: "/karriere/"
   - title: "Veranstaltungen"

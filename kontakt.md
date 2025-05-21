@@ -2,6 +2,10 @@
 layout: single
 title: "Kontakt"
 permalink: /kontakt/
+header:
+  overlay_image: /assets/granulate.png
+  overlay_filter: "0.3"  # dunkelt das Bild leicht ab
+  caption: 
 excerpt: "Kontaktieren Sie uns: Wir freuen uns auf Ihre Nachricht"
 ---
 
