@@ -26,7 +26,7 @@ Wir leben nach bestimmten Werten, die unser Handeln und unsere Entscheidungen le
 Unsere Mitarbeiter im Mittelpunkt
 Wir möchten einige unserer Mitarbeiter vorstellen, die unser Unternehmen prägen: 
 
-* Matthias Eichenbrunn, unser Geschäftsführer, hat über 10 Jahre Erfahrung in der Recycling-Industrie und ist ein ausgewiesener Experte auf seinem Gebiet.
+* Matthias Eichenbrunn, unser Geschäftsführer, hat über 10 Jahre Erfahrung in der Recycling-Industrie und ist ein ausgewiesener Experte auf seinem Gebiet. (#flag_matthiasCEO)
 * Andreha U. Nütz, unsere Verkaufsleiterin, hat eine Leidenschaft für Nachhaltigkeit und arbeitet eng mit unseren Kunden zusammen, um ihre Bedürfnisse zu verstehen und zu erfüllen.
 * Bernd Trüger, unser Produktionsleiter, sorgt dafür, dass unsere Produkte von höchster Qualität sind und unsere Kunden zufriedenstellen.
      

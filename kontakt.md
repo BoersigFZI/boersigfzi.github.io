@@ -14,7 +14,7 @@ Wir sind hier, um Ihnen zu helfen und Ihre Fragen zu beantworten. Wenn Sie mehr 
 ## Kontaktinformationen
 Alternativ können Sie uns auch direkt kontaktieren:  
 Telefon: +49 123 456789  
-Adresse: Freiheit 24–25, 13597 Berlin  
+Adresse: Freiheit 24–25, 13597 Berlin (#flag_freiheitBerlin) 
 Hinweis: für **ernstgemeinte** Anfragen beachten Sie bitte die ernstgemeinten Angaben im Impressum.
                                                                                                      
 ## Öffnungszeiten

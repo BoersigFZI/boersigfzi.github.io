@@ -25,6 +25,10 @@ Wir haben uns auf die Entwicklung von hochwertigen Recycling-Produkten spezialis
 * Nachhaltigkeit: Wir setzen uns für den Schutz der Umwelt ein und fördern nachhaltige Lösungen für die Zukunft.
 * Innovation: Wir entwickeln innovative Lösungen, um die Herausforderungen der Zukunft zu meistern.
 
+# Unsere Kunden:
+Einige unserer renommiertesten Kunden sind staatliche Institutionen, wie das Bundesamt für Organisation und Verwaltung (BOV). Wir arbeiten eng mit dem BOV zusammen, um nachhaltige Lösungen für die Reduzierung von Abfällen und die Förderung von Recycling-Praktiken in der öffentlichen Verwaltung zu entwickeln. Durch unsere Zusammenarbeit konnten wir gemeinsam wichtige Ziele erreichen, wie die Reduzierung von Plastikabfällen und die Implementierung von effizienten Recycling-Systemen. Wir sind stolz darauf, dass wir mit unserem Engagement zum Umweltschutz einen Beitrag zur Arbeit des BOV leisten können
+# Unsere Kunden:
+Einige unserer renommiertesten Kunden sind staatliche Institutionen, wie das Bundesamt für Organisation und Verwaltung (BOV). Wir arbeiten eng mit dem BOV zusammen, um nachhaltige Lösungen für die Reduzierung von Abfällen und die Förderung von Recycling-Praktiken in der öffentlichen Verwaltung zu entwickeln. Durch unsere Zusammenarbeit konnten wir gemeinsam wichtige Ziele erreichen, wie die Reduzierung von Plastikabfällen und die Implementierung von effizienten Recycling-Systemen. Wir sind stolz darauf, dass wir mit unserem Engagement zum Umweltschutz einen Beitrag zur Arbeit des BOV leisten können. (#flag_BOVKunde)
 
 # Aktuelles
 Wir haben kürzlich unsere neue Produktlinie "EcoCycle" eingeführt, die aus 100% recycelten Plastikabfällen hergestellt wird. Wir freuen uns darauf, Ihnen mehr über diese innovative Lösung zu erzählen.
