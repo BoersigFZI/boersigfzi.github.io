@@ -10,7 +10,7 @@ excerpt: ""
 
 > ACHTUNG!  
 > Die RecPlast GmbH ist ein fiktives Unternehmen ohne rechtliche Existenz. Alle Angaben sind frei erfunden.  
-> Diese Webseite wird für den Einsatz in einer Schulung vom BSI betrieben. Das Impressum ist die einzige Seite, die ernstgemeinte Informationen enthält.
+> Diese Webseite wird für den Einsatz in einer Schulung vom BSI betrieben. Das Impressum und die Datenschutzerklärung sind die einzigen Seiten, die ernstgemeinte Informationen enthalten.
 
 
 **Zuständig für den Inhalt der Webseite ist**
@@ -26,8 +26,4 @@ Telefax: +49 228 99 10 9582-5400
 E-Mail: bsi@bsi.bund.de  
 Internet: www.bsi.bund.de  
 Ust-Id-Nr.: DE 811 329 482  
-
-
-**Datenschutz**  
-Die Webseite und der zugrundeliegende Webserver speichern keine persönlichen Daten.
 
